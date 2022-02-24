@@ -100,5 +100,4 @@ func main() {
 	code = "+[,.]"
 	bf := newBF(code, 16)
 	bf.eval()
-	//	fmt.Printf("\n%v\n", bf)
 }
